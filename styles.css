@@ -1,0 +1,39 @@
+ul{
+    list-style-type: none;
+    padding-left: 0;
+}
+
+li{
+    font-weight: bold;
+}
+
+img{
+    margin: 0 auto;
+    display: block;
+    width: 300px;
+    height: 200px;
+}
+
+.animal-name{
+    margin: 10px;
+}
+
+.card-container{
+    background: linear-gradient(red, yellow, rgb(67, 127, 218), green);
+    border: 2px solid green;
+    border-radius: 10px;
+    width: 320px;
+    box-shadow: 5px 5px 5px lightslategrey;
+    margin: 0;
+}
+
+.information{
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 8px;
+}
+
+.interesting-fact{
+    font-style: italic;
+}
