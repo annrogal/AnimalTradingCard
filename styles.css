@@ -24,7 +24,7 @@ img {
     border-radius: 10px;
     width: 320px;
     box-shadow: 5px 5px 5px lightslategrey;
-    margin: 0;
+    margin: auto;
 }
 
 .information {
