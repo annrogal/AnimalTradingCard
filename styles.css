@@ -1,24 +1,24 @@
-ul{
+ul {
     list-style-type: none;
     padding-left: 0;
 }
 
-li{
+li {
     font-weight: bold;
 }
 
-img{
+img {
     margin: 0 auto;
     display: block;
     width: 300px;
     height: 200px;
 }
 
-.animal-name{
+.animal-name {
     margin: 10px;
 }
 
-.card-container{
+.card-container {
     background: linear-gradient(red, yellow, rgb(67, 127, 218), green);
     border: 2px solid green;
     border-radius: 10px;
@@ -27,13 +27,13 @@ img{
     margin: 0;
 }
 
-.information{
+.information {
     border: 1px solid black;
     border-radius: 10px;
     margin: 10px;
     padding: 8px;
 }
 
-.interesting-fact{
+.interesting-fact {
     font-style: italic;
 }

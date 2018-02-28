@@ -1,4 +1,4 @@
-*AnimalTradingCard*
+**AnimalTradingCard**
 
 
 Project created as part of a Google Udacity Scholarship. It's a simple card with information about the chosen animal, in this case it is tha macaw parrot.
